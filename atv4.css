@@ -1,0 +1,16 @@
+h1{
+    text-transform: uppercase;
+    color: brown;
+}
+p{
+    text-transform: uppercase;
+    font-size: 25px;
+}
+label{
+    text-transform: uppercase;
+    font-size: 16px;
+}
+#form{
+    text-transform: uppercase;
+    font-size: 16px;
+}
