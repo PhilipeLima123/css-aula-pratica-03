@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Kanit:wght@300;500&display=swap');
+
+header{
+    display: flex;
+    background-color: #b3949b;
+    font-family: 'Dancing Script', cursive;
+}
+
+nav{
+    line-height: 12vh;
+    margin-left: auto;
+}
+
+a{
+    margin-right: 3vh;
+    text-decoration: none;
+    color: khaki;
+}
+
+#p1{
+    height: 40px;
+    width: 91px;
+    font-size: 30px;
+    margin-left: 40px;
+    background-color: #b3949b ;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+ #p2{
+     font-size: 30px;
+     word-spacing: -2px;
+     letter-spacing: -2px;
+     font-family: 'Times New Roman', Times, serif;
+ }
+
+ #p3{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+ }
+
+
+
+
+ 
